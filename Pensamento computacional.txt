@@ -1,0 +1,48 @@
+### Conhecimentos Adquiridos
+
+#### Pilares
+
+- **Decomposição**
+
+  habilidade de dividir um problema complexo em partes menores,trabalhando um fragmento por vez facilita a resolução.
+
+- **Padrões**
+
+  modelo base que possibilita identificar diferentes elementos com a mesma estrutura.
+
+- **Abstração **
+
+  essa habilidade tem o foco em processos relevantes em vez de priorizar os detalhes,sendo assim pegando somente informações necessárias para a solução do problema. 
+
+- **Algoritmos **
+
+  criação de instruções e passo a passo para ajudar o computador a solucionar problemas.
+
+  #### Introdução a lógica de programação
+
+  - **Lógica**
+
+    organização e planejamento das instruções,assertivas em um algoritmo,a fim de viabilizar a implantação de um programa.
+
+    #### Técnicas de lógicas de programação
+
+    
+
+  - **Técnica Linear**
+
+    execução sequenciada de uma série de elementos com recursos limitados e em uma única dimensão.
+
+  - **Técnica Estruturada**
+
+    organização,disposição e ordem dos elementos essenciais que compõem um corpo concreto ou abstrato,escrita,entendimento,validação e manutenção.
+
+  - **Técnica Modular**
+
+    partes independentes controlada por um conjunto de regras,Dados de entrada,Processo de transformação e Dados de saída(**Simplificação**,**Decompor o problema** e **Verificação do módulo**).
+
+    
+
+    
+
+    
+
