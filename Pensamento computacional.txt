@@ -39,9 +39,9 @@
   - **Técnica Modular**
 
     partes independentes controlada por um conjunto de regras,Dados de entrada,Processo de transformação e Dados de saída(**Simplificação**,**Decompor o problema** e **Verificação do módulo**) .
- 
 
-    
 
-    
+​    
+
+​    
 
